@@ -1,6 +1,5 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
-<<<<<<< HEAD
 feature3commit
 =======
 feature1commitfix
@@ -8,6 +7,3 @@ feature1commitfix
 =======
 feature2commit
 >>>>>>> feature2
-=======
-feature3commit
->>>>>>> feature3
