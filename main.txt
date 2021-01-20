@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 feature3commit
+=======
+feature1commitfix
+>>>>>>> feature1
